@@ -27,6 +27,7 @@ dependencies {
 	implementation 'org.springframework.data:spring-data-jpa:3.5.9'
 	implementation 'com.google.cloud:google-cloud-secretmanager:2.84.0'
 	implementation 'org.apache.httpcomponents:httpclient:4.5.12'
+	implementation 'org.springframework.boot:spring-boot-starter-web:3.5.10'
 	testImplementation 'org.springframework:spring-test:6.2.15'
 }
 
